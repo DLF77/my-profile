@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Enzo Delaforge - Page Personnelle</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#biographie">Biographie</a></li>
+        <li><a href="#passion-rap">Passion Rap</a></li>
+        <li><a href="#projet-pro">Projet Professionnel</a></li>
+        <li><a href="#reseaux-sociaux">Mes Réseaux Sociaux</a></li>
+        <li><a href="#quote">Quote</a></li>
+      </ul>
+    </nav>
+    <div class="hero">
+      <img src="enzo.jpg" alt="Enzo Delaforge">
+      <h1>Enzo Delaforge</h1>
+      <h2>Etudiant en Master Marketing Digital & Innovation à IESEG Paris</h2>
+    </div>
+  </header>
+
+  <main>
+    <section id="biographie">
+      <div class="container">
+        <h2>Biographie</h2>
+        <p>Je m'appelle Enzo Delaforge et je suis étudiant en Master Marketing Digital & Innovation à IESEG Paris. J'ai obtenu mon Bachelor en Marketing Digital de l'ESGCI Paris en 2019. J'ai travaillé sur plusieurs projets de marketing numérique pour des marques de mode et de luxe avant de rejoindre Moët Hennessy en tant que CRM PROJECT MANAGER.</p>
+      </div>
+    </section>
+
+    <section id="passion-rap">
+      <div class="container">
+        <h2>Passion Rap</h2>
+        <p>J'ai toujours été passionné par la culture hip-hop et le rap français/rap US en particulier. J'aime écouter de la musique et découvrir de nouveaux artistes, et j'essaie d'aller à autant de concerts que possible. Mes artistes préférés sont Kendrick Lamar, Booba, et Nekfeu.</p>
+        <p>J'ai également créé un blog de musique en 2017 où je partage des critiques et des actualités sur l'industrie de la musique. J'aime écrire sur la musique et j'espère pouvoir contribuer à la scène musicale un jour.</p>
+      </div>
+    </section>
+
+    <section id="projet-pro">
+      <div class="container">
+        <h2>Projet Professionnel</h2>
+        <p>Actuellement en alternance en tant que CRM PROJECT MANAGER chez Moët Hennessy, j'ai pour mission de piloter le programme CRM pour les marques de Champagne. Mon rôle consiste à concevoir et mettre en œuvre des stratégies CRM pour améliorer l'engagement des clients et les ventes.</p>
+        <p>J'ai également travaillé sur des projets de marketing numérique pour des marques de mode et de luxe, ce qui m'a permis d
+<section id="reseaux-sociaux">
+  <div class="container">
+    <h2>Mes Réseaux Sociaux</h2>
+    <ul class="social-links">
+      <li><a href="https://www.linkedin.com/in/enzo-delaforge/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+      <li><a href="https://twitter.com/EnzoDelaforge" target="_blank"><i class="fab fa-twitter"></i></a></li>
+      <li><a href="https://www.instagram.com/enzodelaforge/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+    </ul>
+  </div>
+</section>
+<section id="quote">
+  <div class="container">
+    <h2>Quote</h2>
+    <blockquote>"Le succès n'est pas la clé du bonheur. Le bonheur est la clé du succès. Si vous aimez ce que vous faites, vous réussirez." - Albert Schweitzer</blockquote>
+  </div>
+</section>
+
